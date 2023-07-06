@@ -1,2 +1,2 @@
 # android_vendor_flair
-FlairDroid vendor
+FlairOS Mobile vendor
